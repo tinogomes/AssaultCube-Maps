@@ -18,7 +18,7 @@ For now I think you have to push and create a pull request and I have to accept.
     If you installed it into your program files it will be:
       > C:\Program Files\AssaultCube_v1.2\packages\maps  
       
-         OR 
+      OR 
          
       > C:\Program Files (x86)\AssaultCube_v1.2\packages\maps 
       

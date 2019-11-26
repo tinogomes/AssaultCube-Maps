@@ -24,3 +24,6 @@ For now I think you have to push and create a pull request and I have to accept.
       
      #### FOR LINUX:
       > ~/.assaultcube/packages/maps or somewhere around there
+
+#### Disclaimer
+I am not affiliated with Assaultcube. Just collecting maps. Any maps added here are not mine. For more information about assaultcube visit https://assault.cubers.net/. Some maps may be copyrighted. Refer to AssaultCubes licensing model before downloading, modifying, or redistributing.
